@@ -1,2 +1,2 @@
-# CUDA-Programming-Basic
+# CUDA Programming Basic
 Basic CUDA Programming
